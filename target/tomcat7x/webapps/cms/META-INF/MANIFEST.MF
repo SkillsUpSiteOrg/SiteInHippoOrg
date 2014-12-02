@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Vendor: 
+Project-Build: -1
+Implementation-Title: My Hippo Project CMS
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: SkillsUpStudents
+Built-By: Daniel
+Build-Jdk: 1.7.0_21
+Project-Version: 1.0-SNAPSHOT
+Created-By: Apache Maven 3.2.3
+Hippo-Release-Version: 7.9.4
+Archiver-Version: Plexus Archiver
+

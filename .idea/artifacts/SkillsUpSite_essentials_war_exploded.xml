@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SkillsUpSite-essentials:war exploded">
+    <output-path>$PROJECT_DIR$/essentials/target/essentials</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SkillsUpSite-essentials" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SkillsUpSite-essentials/web/Web" />
+    </root>
+  </artifact>
+</component>

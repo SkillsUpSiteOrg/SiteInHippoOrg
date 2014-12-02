@@ -1,0 +1,3 @@
+02.12.2014 15:09:38 INFO  localhost-startStop-1 [EventProcessor.<init>:118] Automatic export is enabled
+02.12.2014 15:09:38 INFO  localhost-startStop-1 [Configuration.addRepositoryPath:199] Changes to repository path '/content' will be exported to directory 'bootstrap/content'
+02.12.2014 15:09:38 INFO  localhost-startStop-1 [Configuration.addRepositoryPath:199] Changes to repository path '/' will be exported to directory 'bootstrap/configuration'

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.onehippo.cms7:hippo-cms7-utilities:1.03.01">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-cms7-utilities/1.03.01/hippo-cms7-utilities-1.03.01.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-cms7-utilities/1.03.01/hippo-cms7-utilities-1.03.01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-cms7-utilities/1.03.01/hippo-cms7-utilities-1.03.01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
