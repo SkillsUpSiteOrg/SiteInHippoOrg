@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.onehippo.cms7.essentials:dashboard:war:1.02.05">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/essentials/dashboard/1.02.05/dashboard-1.02.05.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/essentials/dashboard/1.02.05/dashboard-1.02.05-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/essentials/dashboard/1.02.05/dashboard-1.02.05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
