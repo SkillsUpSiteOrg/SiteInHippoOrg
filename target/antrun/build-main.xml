@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<project name="maven-antrun-" default="main"  >
-<target name="main">
-  <echo>Press Ctrl-C to stop the Cargo container...</echo>
-  <sleep hours="2147483647"/>
-</target>
-</project>
