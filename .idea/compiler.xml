@@ -33,6 +33,7 @@
       <module name="SkillsUpSite-bootstrap-configuration" target="1.7" />
       <module name="SkillsUpSite-bootstrap-content" target="1.7" />
       <module name="SkillsUpSite-cms" target="1.7" />
+      <module name="SkillsUpSite-essentials" target="1.7" />
       <module name="SkillsUpSite-site" target="1.7" />
     </bytecodeTargetLevel>
   </component>
