@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:h="http://www.onehippo.org/jcr/xmlimport" sv:name="hst:templates" h:merge="combine">
+  <sv:node sv:name="essentials-carousel">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/hstdefault/essentials-carousel.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="contentpage-main">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/hstdefault/contentpage-main.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="essentials-menu">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/hstdefault/essentials-menu.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="search-box">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/hstdefault/search-box.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="essentials-banner">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/hstdefault/essentials-banner.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+</sv:node>

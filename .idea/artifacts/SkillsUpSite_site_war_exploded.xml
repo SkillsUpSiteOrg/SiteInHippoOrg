@@ -2,7 +2,6 @@
   <artifact type="exploded-war" name="SkillsUpSite-site:war exploded">
     <output-path>$PROJECT_DIR$/site/target/site</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="SkillsUpSite-site/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="SkillsUpSite-site" />
@@ -80,6 +79,7 @@
           <element id="library" level="project" name="Maven: org.onehippo.cms7.hst.client-modules:hst-page-composer:2.28.07" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="SkillsUpSite-site/web/Web" />
     </root>
   </artifact>
 </component>

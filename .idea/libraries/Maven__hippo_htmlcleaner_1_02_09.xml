@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: hippo:htmlcleaner:1.02.09">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/hippo/htmlcleaner/1.02.09/htmlcleaner-1.02.09.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/hippo/htmlcleaner/1.02.09/htmlcleaner-1.02.09-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/hippo/htmlcleaner/1.02.09/htmlcleaner-1.02.09-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

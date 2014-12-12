@@ -42,6 +42,14 @@
       <sv:value>jsp/SkillsUpSite/pagenotfound-main.jsp</sv:value>
     </sv:property>
   </sv:node>
+  <sv:node sv:name="search-main">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/SkillsUpSite/search-main.jsp</sv:value>
+    </sv:property>
+  </sv:node>
   <sv:node sv:name="contentlist-main-contentlist">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hst:template</sv:value>

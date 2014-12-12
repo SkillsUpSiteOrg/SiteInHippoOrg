@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.onehippo.cms7:hippo-addon-channel-manager-repository:2.26.07">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-addon-channel-manager-repository/2.26.07/hippo-addon-channel-manager-repository-2.26.07.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-addon-channel-manager-repository/2.26.07/hippo-addon-channel-manager-repository-2.26.07-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-addon-channel-manager-repository/2.26.07/hippo-addon-channel-manager-repository-2.26.07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

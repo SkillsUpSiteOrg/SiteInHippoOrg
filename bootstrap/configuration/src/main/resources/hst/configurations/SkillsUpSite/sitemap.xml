@@ -2,6 +2,12 @@
   <sv:property sv:name="jcr:primaryType" sv:type="Name">
     <sv:value>hst:sitemap</sv:value>
   </sv:property>
+  <sv:property sv:name="hst:lastmodified" sv:type="Date">
+    <sv:value>2014-12-12T15:07:22.752+02:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="hst:lastmodifiedby" sv:type="String">
+    <sv:value>admin</sv:value>
+  </sv:property>
   <sv:node sv:name="root">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hst:sitemapitem</sv:value>
@@ -27,6 +33,17 @@
     </sv:property>
     <sv:property sv:name="hst:refId" sv:type="String">
       <sv:value>pagenotfound</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="search">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:sitemapitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:componentconfigurationid" sv:type="String">
+      <sv:value>hst:pages/search</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:refId" sv:type="String">
+      <sv:value>search</sv:value>
     </sv:property>
   </sv:node>
   <sv:node sv:name="content">
@@ -61,5 +78,18 @@
         <sv:value>${parent}/${1}</sv:value>
       </sv:property>
     </sv:node>
+  </sv:node>
+  <sv:node sv:name="registration">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:sitemapitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:componentconfigurationid" sv:type="String">
+      <sv:value>hst:pages/contentpage</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:parameternames" sv:type="String" sv:multiple="true"/>
+    <sv:property sv:name="hst:parametervalues" sv:type="String" sv:multiple="true"/>
+    <sv:property sv:name="hst:relativecontentpath" sv:type="String">
+      <sv:value>content/registration</sv:value>
+    </sv:property>
   </sv:node>
 </sv:node>
